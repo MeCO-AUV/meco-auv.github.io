@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![](https://github.com/MeCO-AUV/meco-auv.github.io/blob/main/images/meco_spec.png)
+![](https://raw.githubusercontent.com/MeCO-AUV/meco-auv.github.io/refs/heads/main/images/meco_spec.png)
 
 MeCO AUV is a **Me**dium-**C**ost **O**pen-Source **A**utonomous **U**nderwater **V**ehicle intended for use by research groups with low levels of funding and personel. MeCO is an upgrade of the LoCO platform, and can be assembled with little technical knowledge from approximately $10,000 USD worth of off-the-shelf and custom parts, and can be operated and deployed by very small teams. 
 
