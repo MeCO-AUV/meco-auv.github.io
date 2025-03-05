@@ -6,7 +6,6 @@ permalink: /videos/
 
 You can find some cool videos of MeCO in action here! 
 
-**MeCO AUV Introduction Video** -- coming soon.
-<!-- [![MeCO AUV](http://img.youtube.com/vi/H-QTr7PriZs/0.jpg)](http://www.youtube.com/watch?v=H-QTr7PriZs "LoCO AUV") -->
-
+**MeCO AUV Introduction Video**.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SI8UbWWknaE?si=8a_VjNCTjyYQt8_0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
